@@ -1,0 +1,1 @@
+INSERT INTO inventory (id, name) VALUES('1', 'Available'), (2, 'Unvailable');
